@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Jan 29 13:52:56 2023
+# Process ID: 36968
+# Current directory: H:/cortex-m0-xc7a35t/vivado/cortex-m0.runs/impl_1
+# Command line: vivado.exe -log soc.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source soc.tcl -notrace
+# Log file: H:/cortex-m0-xc7a35t/vivado/cortex-m0.runs/impl_1/soc.vdi
+# Journal file: H:/cortex-m0-xc7a35t/vivado/cortex-m0.runs/impl_1\vivado.jou
+# Running On: Dsuad, OS: Windows, CPU Frequency: 3800 MHz, CPU Physical cores: 12, Host memory: 34275 MB
+#-----------------------------------------------------------
+source soc.tcl -notrace

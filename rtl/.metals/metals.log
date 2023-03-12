@@ -1,0 +1,19 @@
+2023.01.28 19:50:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at h:\cortex-m0-xc7a35t\rtl\.metals\lsp.trace.json or C:\Users\msuad\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.28 19:50:49 INFO  logging to file H:\cortex-m0-xc7a35t\rtl\.metals\metals.log
+2023.01.28 19:50:49 INFO  Started: Metals version 0.11.10 in workspace 'H:\cortex-m0-xc7a35t\rtl' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/msuad/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.28 19:50:50 INFO  time: initialize in 1.05s
+2023.01.28 19:50:51 WARN  Build server is not auto-connectable.
+2023.01.28 19:50:51 WARN  no build tool detected in workspace 'H:\cortex-m0-xc7a35t\rtl'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+1月 28, 2023 7:50:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+1月 28, 2023 7:51:42 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+1月 28, 2023 7:53:27 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2023.01.28 19:53:49 INFO  shutting down Metals
